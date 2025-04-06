@@ -26,6 +26,10 @@ Users can filter the data by rating, sentiment, or date range for detailed analy
 
 The dashboard reveals trends in customer satisfaction and highlights common concerns or praises through sentiment analysis.
 It offers actionable insights that British Airways can use to improve customer experience and service quality.
+From the dashboard we analyzed that the overall rating for the airways service has been great with approximately 4.2 out of 5. 
+But the entertainment and food service had been poorly declined.
+Due to low value for money the passengers had also reduced travelling from this airlines and preferred other international airlines.
+And the services had been provided globally except for some parts of Africa and Middle East.
 
 🛠️ Tools & Technologies Used
 Tool: Tableau Public
